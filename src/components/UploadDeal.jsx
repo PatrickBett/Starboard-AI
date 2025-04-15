@@ -263,7 +263,7 @@ const UploadDeal = () => {
                   className="rounded-circle bg-primary text-white d-flex align-items-center justify-content-center"
                   style={{ width: "35px", height: "35px" }}
                 >
-                  <span className="fw-bold">JS</span>
+                  <span className="fw-bold">SA</span>
                 </div>
               </div>
             </div>
